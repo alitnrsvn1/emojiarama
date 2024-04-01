@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/emojiarama/static/css/main.65605343.chunk.css",
+    "main.js": "/emojiarama/static/js/main.ac0a1072.chunk.js",
+    "main.js.map": "/emojiarama/static/js/main.ac0a1072.chunk.js.map",
+    "runtime-main.js": "/emojiarama/static/js/runtime-main.71c9c30c.js",
+    "runtime-main.js.map": "/emojiarama/static/js/runtime-main.71c9c30c.js.map",
+    "static/css/2.5510c45e.chunk.css": "/emojiarama/static/css/2.5510c45e.chunk.css",
+    "static/js/2.9f764114.chunk.js": "/emojiarama/static/js/2.9f764114.chunk.js",
+    "static/js/2.9f764114.chunk.js.map": "/emojiarama/static/js/2.9f764114.chunk.js.map",
+    "index.html": "/emojiarama/index.html",
+    "precache-manifest.180533004d631b46983e3ec8c5b10b07.js": "/emojiarama/precache-manifest.180533004d631b46983e3ec8c5b10b07.js",
+    "service-worker.js": "/emojiarama/service-worker.js",
+    "static/css/2.5510c45e.chunk.css.map": "/emojiarama/static/css/2.5510c45e.chunk.css.map",
+    "static/css/main.65605343.chunk.css.map": "/emojiarama/static/css/main.65605343.chunk.css.map",
+    "static/js/2.9f764114.chunk.js.LICENSE.txt": "/emojiarama/static/js/2.9f764114.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71c9c30c.js",
+    "static/css/2.5510c45e.chunk.css",
+    "static/js/2.9f764114.chunk.js",
+    "static/css/main.65605343.chunk.css",
+    "static/js/main.ac0a1072.chunk.js"
+  ]
+}
