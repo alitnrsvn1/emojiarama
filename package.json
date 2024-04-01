@@ -1,14 +1,17 @@
 {
+  "homepage": "https://alitnrsvn1.github.io/emojiarama",
   "name": "emoji-search",
   "version": "0.1.0",
-  "devDependencies": { 
+  "devDependencies": {
+    "gh": "^2.8.9",
     "gh-pages": "^2.0.1",
+    "pages": "^0.0.16",
     "prettier": "^1.17.1",
     "react-scripts": "^3.4.4"
   },
   "dependencies": {
-    "@testing-library/react": "^12.1.5",
     "@testing-library/dom": "^8.13.0",
+    "@testing-library/react": "^12.1.5",
     "@testing-library/user-event": "^14.1.0",
     "clipboard": "^2.0.4",
     "github-fork-ribbon-css": "^0.2.1",
@@ -20,6 +23,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
+    "predeploy" : "npm run build",
     "deploy": "gh-pages -d build"
   },
   "browserslist": {
